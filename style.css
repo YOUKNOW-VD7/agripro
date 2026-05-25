@@ -894,6 +894,8 @@ body {
     .hero {
         padding: 0 1rem;
         min-height: 500px;
+        background-position: center top;
+        background-size: cover;
     }
     
     .hero-title {
