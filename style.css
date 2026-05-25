@@ -851,6 +851,8 @@ body {
     
     .hero {
         margin-top: 60px;
+        background-position: center top;
+        background-size: cover;
     }
     
     .hero-title {
